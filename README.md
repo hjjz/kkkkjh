@@ -1,15 +1,6 @@
-<p align="center"><img src="https://i.postimg.cc/JhJywSMF/logo7-10-14120.png" style="width:100%"></p>
-
-warning !, this is a telegram bot that contains adult content, access restrictions for this bot will be implemented soon, please don't report this repository and the example bot if you keep want to use it.
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=PornHub&theme=dark)
-
-### PORNHUB DOWNLOADER BOT
-
-Simply way to deploy this bot, go deploy on heroku.
 
 <b>
-<a href="https://heroku.com/deploy?template=https://github.com/levina-lab/PornHub"><img src="https://img.shields.io/badge/DEPLOY ON HEROKU-Canary?style=badge&logo=heroku"width="310" height="50"/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/hjjz/kkkkjh"><img src="https://img.shields.io/badge/DEPLOY ON HEROKU-Canary?style=badge&logo=heroku"width="310" height="50"/></a>
 </b>
 
 ### FIND US ON TELEGRAM !!
